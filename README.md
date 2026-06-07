@@ -58,3 +58,11 @@ The main goal of this project is to:
 
 ## Dataset Link
 https://www.kaggle.com/datasets/pacificrm/skindiseasedataset
+
+## 📦 Model File
+
+Download the trained model from:
+https://drive.google.com/file/d/116n6kJa28-ZhPy_CWD1zDo5Q5JOf5dlk/view?usp=sharing
+
+After downloading, place it in the project folder before running the code.
+

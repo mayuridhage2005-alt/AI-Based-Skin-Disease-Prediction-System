@@ -56,3 +56,5 @@ The main goal of this project is to:
 * Improve **health awareness**
 * Demonstrate the use of **AI in healthcare systems**
 
+## Dataset Link
+https://www.kaggle.com/datasets/pacificrm/skindiseasedataset
